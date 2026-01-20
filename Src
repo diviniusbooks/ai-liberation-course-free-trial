@@ -1,0 +1,3 @@
+git remote add origin https://github.com/diviniusbooks/ai-liberation-course-free-trial.git
+git branch -M main
+git push -u origin main
